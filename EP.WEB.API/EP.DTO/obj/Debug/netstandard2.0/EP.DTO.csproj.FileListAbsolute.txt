@@ -1,0 +1,9 @@
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\bin\Debug\netstandard2.0\EP.DTO.deps.json
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\bin\Debug\netstandard2.0\EP.DTO.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\bin\Debug\netstandard2.0\EP.DTO.pdb
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\obj\Debug\netstandard2.0\EP.DTO.csprojAssemblyReference.cache
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\obj\Debug\netstandard2.0\EP.DTO.csproj.CoreCompileInputs.cache
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\obj\Debug\netstandard2.0\EP.DTO.AssemblyInfoInputs.cache
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\obj\Debug\netstandard2.0\EP.DTO.AssemblyInfo.cs
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\obj\Debug\netstandard2.0\EP.DTO.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.DTO\obj\Debug\netstandard2.0\EP.DTO.pdb

@@ -1,0 +1,6 @@
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.SERVICE\bin\Debug\EP.SERVICE.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.SERVICE\bin\Debug\EP.SERVICE.pdb
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.csprojAssemblyReference.cache
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.csproj.CoreCompileInputs.cache
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.dll
+C:\Ranjit\Interview\PracticeProjects\ASPNet\EntityFramework_Unity\EP.WEB.API\EP.SERVICE\obj\Debug\EP.SERVICE.pdb
